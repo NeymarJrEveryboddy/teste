@@ -1208,6 +1208,7 @@ function App() {
             </button>
         
           </div>
+        </div>
       </section>
 
       {/* Footer */}
